@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="478a092e-8ed9-43dc-a35a-405a5b99019e" name="变更" comment="1.13任务" />
+    <list default="true" id="478a092e-8ed9-43dc-a35a-405a5b99019e" name="变更" comment="Create static.yml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +67,7 @@
       <workItem from="1673490734023" duration="76000" />
       <workItem from="1673522657516" duration="2507000" />
       <workItem from="1673525545708" duration="1704000" />
-      <workItem from="1673569284847" duration="847000" />
+      <workItem from="1673569284847" duration="59000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1673522771144</created>
@@ -102,14 +104,7 @@
       <option name="project" value="LOCAL" />
       <updated>1673530051670</updated>
     </task>
-    <task id="LOCAL-00006" summary="1.13任务">
-      <created>1673569590149</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1673569590149</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +143,6 @@
     </ignored-roots>
     <MESSAGE value="Changes" />
     <MESSAGE value="Create static.yml" />
-    <MESSAGE value="1.13任务" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.13任务" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create static.yml" />
   </component>
 </project>
