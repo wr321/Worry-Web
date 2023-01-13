@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="478a092e-8ed9-43dc-a35a-405a5b99019e" name="变更" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;index.html">
+    <list default="true" id="478a092e-8ed9-43dc-a35a-405a5b99019e" name="变更" comment="改内容">
+      <change afterPath="$PROJECT_DIR$/images/cat-1.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -79,7 +80,7 @@
       <workItem from="1673525545708" duration="1704000" />
       <workItem from="1673569284847" duration="59000" />
       <workItem from="1673600967124" duration="633000" />
-      <workItem from="1673601766806" duration="8527000" />
+      <workItem from="1673601766806" duration="9554000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1673522771144</created>
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673606959203</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="改内容">
+      <created>1673616702105</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673616702105</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +194,7 @@
     <MESSAGE value="1.13任务" />
     <MESSAGE value="寒假计划" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;index.html" />
+    <MESSAGE value="改内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="改内容" />
   </component>
 </project>
