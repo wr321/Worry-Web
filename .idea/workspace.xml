@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="478a092e-8ed9-43dc-a35a-405a5b99019e" name="变更" comment="改内容">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +29,11 @@
     </option>
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -100,7 +99,7 @@
       <workItem from="1673525545708" duration="1704000" />
       <workItem from="1673569284847" duration="59000" />
       <workItem from="1673600967124" duration="633000" />
-      <workItem from="1673601766806" duration="10040000" />
+      <workItem from="1673601766806" duration="10923000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1673522771144</created>
@@ -179,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673617751300</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="改内容">
+      <created>1673618317865</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673618317865</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
